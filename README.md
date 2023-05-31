@@ -21,6 +21,8 @@ git clone https://github.com/coder109/AI-Math-Experiment
 pip install -r requirements.txt
 ```
 
+在`lab2`下创建文件夹`mnist`，将`mnist_train.csv`文件放在该文件夹下。该文件请访问这里下载：https://github.com/phoebetronic/mnist
+
 ## LAB1
 
 本LAB有三个要求：
@@ -43,7 +45,7 @@ pip install -r requirements.txt
 
 在本例中，文件作用如下：
 
-1. `mnist`文件夹，及其下面的文件，为`MNIST`数据集文件。该文件请访问这里下载：https://github.com/phoebetronic/mnist
+1. `mnist`文件夹，及其下面的`mnist_train.csv`文件，为`MNIST`数据集文件。
 2. `PCA.py`，解决问题主函数。
 3. `RPCA.py`，鲁棒主成分分析的相关代码，感谢https://github.com/dganguli/robust-pca
 
