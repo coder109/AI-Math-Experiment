@@ -49,3 +49,15 @@ pip install -r requirements.txt
 2. `PCA.py`，解决问题主函数。
 3. `RPCA.py`，鲁棒主成分分析的相关代码，感谢https://github.com/dganguli/robust-pca
 
+## LAB3
+
+本实验有两个可选任务：
+
+1. 实现用梯度下降求解二项逻辑回归模型，然后牛顿法求解一个高维的非线性问题。
+2. 使用mnist，cifar数据集用于训练，在训练的优化算法中，采用梯度下降，牛顿法，以及各种加速技术进行训练速度和轮次，以及精度的比较。
+
+在本例中，文件作用如下：
+
+1. `LogisticRegression.py`，牛顿法求解三维逻辑回归模型。
+2. `Gradient.py`，梯度下降求解二项逻辑回归模型。
+3. `Acceleration.py`，求解第二个问题的代码，使用mnist数据。**还没有写完，因为训练耗时很长。**
