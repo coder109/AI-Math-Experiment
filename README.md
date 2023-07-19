@@ -3,7 +3,7 @@ Python code of experiment from Harbin Institute of Technology's Essential Mathem
 
 哈工大2023人工智能数学基础实验课Python代码。
 
-有问题欢迎发issue。
+有问题欢迎发issue,能给我一个Star,就更好啦！
 
 ## 说在前面
 
